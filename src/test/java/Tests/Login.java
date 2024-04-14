@@ -25,10 +25,10 @@ public class Login extends Base
 	@Test(dataProvider = "DataDriven")
 	public void tutorials(String Email, String Password, String ExpectedResult) throws IOException, InterruptedException
 	{
-		logs = LogManager.getLogger(Login.class);
+		logs = LogManager.getLogger(Login.class); 
 		
 		driver = InitializeBrowser();
-		logs.debug("Browser has launched");
+		logs.debug("Browser has launched"); 
 		
 		driver.get(ps.getProperty("URL"));
 		logs.debug("URL has opened");

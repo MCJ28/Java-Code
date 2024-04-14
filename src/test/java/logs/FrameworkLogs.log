@@ -519,3 +519,43 @@
 09:42:28 [TestNG-tests-3] ERROR - User loggedIn has Failed
 09:42:28 [TestNG-tests-3] INFO  - Login Test got Passed
 09:42:28 [TestNG-tests-3] DEBUG - Browser has closed
+00:51:32 [main] DEBUG - Browser has launched
+00:51:35 [main] DEBUG - URL has opened
+00:51:35 [main] DEBUG - MY Account Dropdown has clicked
+00:51:36 [main] DEBUG - LogIn Option has clicked
+00:51:38 [main] DEBUG - Email has enetered into the required field
+00:51:38 [main] DEBUG - Password has enetered into the required field
+00:51:39 [main] DEBUG - LogIn Button has clicked
+00:51:40 [main] INFO  - User has succesfully LoogedIn
+00:51:40 [main] INFO  - Login Test got Passed
+00:51:40 [main] DEBUG - Browser has closed
+00:51:47 [main] DEBUG - Browser has launched
+00:51:49 [main] DEBUG - URL has opened
+00:51:49 [main] DEBUG - MY Account Dropdown has clicked
+00:51:49 [main] DEBUG - LogIn Option has clicked
+00:51:51 [main] DEBUG - Email has enetered into the required field
+00:51:51 [main] DEBUG - Password has enetered into the required field
+00:51:52 [main] DEBUG - LogIn Button has clicked
+00:51:55 [main] ERROR - User loggedIn has Failed
+00:51:55 [main] INFO  - Login Test got Passed
+00:51:56 [main] DEBUG - Browser has closed
+00:53:27 [main] DEBUG - Browser has launched
+00:53:29 [main] DEBUG - URL has opened
+00:53:29 [main] DEBUG - MY Account Dropdown has clicked
+00:53:29 [main] DEBUG - LogIn Option has clicked
+00:53:30 [main] DEBUG - Email has enetered into the required field
+00:53:31 [main] DEBUG - Password has enetered into the required field
+00:53:31 [main] DEBUG - LogIn Button has clicked
+00:53:32 [main] INFO  - User has succesfully LoogedIn
+00:53:32 [main] INFO  - Login Test got Passed
+00:53:33 [main] DEBUG - Browser has closed
+00:53:35 [main] DEBUG - Browser has launched
+00:53:36 [main] DEBUG - URL has opened
+00:53:37 [main] DEBUG - MY Account Dropdown has clicked
+00:53:37 [main] DEBUG - LogIn Option has clicked
+00:53:38 [main] DEBUG - Email has enetered into the required field
+00:53:38 [main] DEBUG - Password has enetered into the required field
+00:53:39 [main] DEBUG - LogIn Button has clicked
+00:53:42 [main] ERROR - User loggedIn has Failed
+00:53:42 [main] INFO  - Login Test got Passed
+00:53:42 [main] DEBUG - Browser has closed
